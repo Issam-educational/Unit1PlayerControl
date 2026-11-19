@@ -490,7 +490,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   speed: 20
-  turnSpeed: 0
+  turnSpeed: 400
   moveAction:
     m_Name: Move
     m_Type: 0
